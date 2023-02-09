@@ -1,2 +1,1 @@
-# zero_day
-*Emphasize* _emphasize_
+command uname print when run empty
